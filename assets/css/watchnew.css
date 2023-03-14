@@ -1,0 +1,17 @@
+body {
+    background: black;
+}
+
+.clock {
+   
+   
+    color: #ffffff;
+    font-size: 70px;
+    font-family: 'Orbitron', sans-serif;
+    /* letter-spacing: 7px; */
+    font-weight: bold;
+    
+   
+
+
+}
